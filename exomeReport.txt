@@ -1,0 +1,70 @@
+Organism chicken, discovered by Rivet, has a diameter of 26mm, and from the enviornment Swamp 
+
+The list of genes can be found in /home/saint/week3/postcrispr/chicken_postcrispr.fasta 
+
+The first sequence of chicken is:
+
+>gene77
+
+ATGTAACCTATTCTTCACTTCTACCTAAAATAAGTTACATACCTTATACCAATTAATCCAACGGCAACCCATAAACCTTATCCAAAACTTTCATGGCTTTTTTTACACTTCTCGTTCACACCCCCTACCCTTTTTACACTTCACCTAAACTTCATTTAAATAAATCTCATTGTTTTTACACTTCACCA
+
+Organism dromedary, discovered by Forness, has a diameter of 30mm, and from the enviornment Sewage 
+
+The list of genes can be found in /home/saint/week3/postcrispr/dromedary_postcrispr.fasta 
+
+The first sequence of dromedary is:
+
+>gene100
+
+ATGAACATCTCTAATCATTCCTATCATCCTTTTTACACTTCAATACCCTCAAACCTCTTGTAAAACATACTATTATTTTTACACTTCTATACTCCTACGGCTCAAAATTTTTACACTTCCACTCACAATCCAATATTTTTACACTTCCTTAACACA
+
+Organism fox, discovered by Vanderburg, has a diameter of 26mm, and from the enviornment River 
+
+The list of genes can be found in /home/saint/week3/postcrispr/fox_postcrispr.fasta 
+
+The first sequence of fox is:
+
+>gene305
+
+ATGATCTTTTTTTTACACTTCGACCAACGCTATATCTCTTTTTACACTTCCATTGCCAAGCCATAATTCCCAACACTATCTATACTCACCATAATCATTTTTTTACACTTCAAATTTCGCTCTTCGACCTTTCTCACTCTTACCATTACATTTTTACACTTCCACTCTTCAAGGATATACATGGACTACC
+
+Organism goat, discovered by Gorham, has a diameter of 24mm, and from the enviornment Sewage 
+
+The list of genes can be found in /home/saint/week3/postcrispr/goat_postcrispr.fasta 
+
+The first sequence of goat is:
+
+>gene67
+
+ATGCATCTACCCTAACTACCAACCTTCAACCTCAAATCAAACATAACAATTCATACTATTTTTACACTTCCAAGGATCTAACTACCTCCCTTATCAATAAATAGCTCCAGCAACCTTCTCTCAAGGCTTTTTACACTTCTTAACTCTATATCCCCTCCAGCT
+
+Organism gopher, discovered by Mccafferty, has a diameter of 21mm, and from the enviornment Sewage 
+
+The list of genes can be found in /home/saint/week3/postcrispr/gopher_postcrispr.fasta 
+
+The first sequence of gopher is:
+
+>gene149
+
+ATGTTCTATTTTTACACTTCTTCACTCTCCGCTTTTCATAAATTCACTTACCATTTTTACACTTCATCTTATATTAATGTCCCGAATGCTGCCAACATTACATCCATTGTTATATTAACTAACACACACTAATATCTCAACCGAACCAACGGCCACTATAAACATTTTAAATTTCAT
+
+Organism gorilla, discovered by Landey, has a diameter of 30mm, and from the enviornment River 
+
+The list of genes can be found in /home/saint/week3/postcrispr/gorilla_postcrispr.fasta 
+
+The first sequence of gorilla is:
+
+>gene130
+
+ATGTTCCTATTCTTTTCCTATATCCTTATAAACCCTAATCACTATCATGGATCCAACTCTCTCCCTAGCTTCCCCCTACGTACACCCTTATCCTCAATCACTAACCTATCTCCATTTTTACACTTCAACCAACTTCAAAAAAATTTTTACACTTCTAAAAATTTTTTACACTTCCCAGACCA
+
+Organism lamb, discovered by Kesner, has a diameter of 28mm, and from the enviornment Sewage 
+
+The list of genes can be found in /home/saint/week3/postcrispr/lamb_postcrispr.fasta 
+
+The first sequence of lamb is:
+
+>gene20
+
+ATGACCCTCCTTCTATCTCCTTTTTATCAACCTCACAGAAAATAACTAACTACCTCAAAGTTTCTGCTAACTTTTTACACTTCCAAAAACATATTATATACCTTTTTTACACTTCCAAAAGCCTCATTTAACTCAAAACGGCCAATAACAAAAATAATCCCATCCTAATCG
+
